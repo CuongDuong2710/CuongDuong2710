@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cuong Duong</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🌱 I’m ReactJS developer. Passion for **Javascript, ReactJs, SmartContract (Solidity, Cairo), Web3 and DeFi**
+- 🌱 I’m ReactJS developer. Passion for **Javascript, ReactJs, SmartContract (Solidity + Cairo), Web3, NFT and DeFi**
 
 - 📫 How to reach me **cuongduongngocquoc@gmail.com**
 
