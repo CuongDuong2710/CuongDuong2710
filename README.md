@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cuongduong2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cuongduong2710" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dương-ng%E1%BB%8Dc-quốc-cường-74030b98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cuongduong2710" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/duongngocquoccuong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cuongduong2710" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
