@@ -1,15 +1,99 @@
-<h1 align="center">Hi 👋, I'm Cuong Duong</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h1 align="center">Hi 👋, I'm Dương Ngọc Quốc Cường</h1>
+<h3 align="center">Senior Frontend Developer | AI & Web3 Enthusiast</h3>
 
-- 🌱 I’m ReactJS developer. Passion for **Javascript, ReactJs, SmartContract (Solidity + Cairo), Web3, NFT and DeFi**
-
-- 📫 How to reach me **cuongduongngocquoc@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cuongduong2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cuongduong2710" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/duongngocquoccuong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cuongduong2710" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+with+12%2B+Years+Experience;ReactJS+%7C+Next.js+%7C+TypeScript;AI+Agents+%7C+Web3+%7C+Smart+Contracts;Building+Scalable+Products+and+Autonomous+Systems&center=true&width=900&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 💻 12 years of experience in software development
+- ⚛️ 6 years specializing in Frontend Development with ReactJS & TypeScript
+- 🤖 Currently transitioning into Product AI Engineering & Web3
+- 🧠 Passionate about AI Agents, LLM workflows, automation, and blockchain technologies
+- 👨‍💼 Experienced Pod-Lead managing a team of 9 developers
+- 🏢 Worked on large-scale enterprise systems with 100+ members
+- 🌏 Based in Ho Chi Minh City, Vietnam
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite" />
+</p>
+
+### 🔗 AI & Web3
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,docker" />
+</p>
+
+- Solidity
+- Hardhat
+- Ethers.js
+- Smart Contracts
+- OpenClaw AI Agents
+- Gemini API
+- AI Automation Systems
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,azure" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| Ritual Siggy Bot | AI chatbot for Ritual community competition | AI Agents, LLM |
+| AI Market Sentinel | Autonomous AI market analysis agent | OpenClaw, Gemini API |
+| DeFi Exchange | Web3 decentralized exchange platform | Solidity, Ethers.js |
+| DAO Platform | Smart contract governance platform | Hardhat, Web3 |
+| Run Racer | AI-powered game concept using Verse8 | Agent8, AI Systems |
+| Automation Bots | On-chain analytics & retroactive farming tools | Node.js, Web3 |
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:cuongduongngocquoc@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://github.com/CuongDuong2710">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/duongngocquoccuong/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## ⚡ Current Focus
+
+```yaml
+Learning:
+  - AI Engineering
+  - AI Agents
+  - Product AI Systems
+  - Autonomous Workflows
+  - Web3 Infrastructure
+
+Building:
+  - AI-powered market intelligence tools
+  - Automation systems
+  - Full-stack Next.js platforms
+  - Smart contract applications
